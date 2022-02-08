@@ -2,6 +2,8 @@ import React from 'react';
 import Snake from "./components/Snake"
 import Food from "./components/Food"
 
+
+
 function App() {
   return (
     <div className="game-area">
