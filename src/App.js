@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Snake from './Snake';
-import Food from './Food';
+import Snake from './components/Snake';
+import Food from './components/Food';
 
 const getRandomCoordinates = () => {
   let min = 1;
